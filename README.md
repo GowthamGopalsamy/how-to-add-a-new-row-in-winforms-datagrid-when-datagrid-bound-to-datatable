@@ -1,1 +1,1 @@
-# how-to-add-a-new-row-in-winforms-datagrid-when-datagrid-bound-to-datatable
+# To-add-a-new-row-when-datagrid-bound-to-datatable-in-winforms-datagrid
